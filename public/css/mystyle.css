@@ -1,0 +1,96 @@
+.form-group label{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 800;
+}
+.form-container{
+    padding: 20px;
+    background-color: #FFFFFF; 
+}
+.logo-container{
+    padding: 20px;
+    background-color: #FFFFFF; 
+    border-right: 2px solid #CCCC;
+    line-height: 2.5px;
+    text-align: center;
+    font-size: 15px;
+}
+.prototype-class{
+    box-shadow: 5px 5px;
+}
+.btn-primary{
+    float: center;
+}
+.image-parcel{
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-details{
+    line-height: 3.5px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.body-container{
+    margin-top:20px;
+}
+.payed-by-container{
+    margin-top:55px;
+    padding-bottom: 20px;
+    border:1px solid #28A745;
+    
+}
+.checkbox-line{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.date-form-container{
+    padding-bottom: 20px;
+}
+.custom-border{
+    padding-top: 15px;
+    padding-bottom: 1px;
+    border-bottom:1px solid #28A745;
+}
+.solo-custom-border{
+    border-top:1px solid #28A745;
+}
+.top-spacing{
+    padding-top: 15px;
+}
+.delivery-time{
+
+    border:2px solid #28A745;
+    margin-bottom: 40px;
+}
+.deliver-col{
+    padding:20px;
+    border:1px solid #28A745;
+}
+.button-align{
+    margin-bottom: 50px;
+   
+}
+#head-text{
+    padding-top: 15px;
+    text-decoration: underline;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+#heads-text{
+    padding-top: 15px;
+    text-decoration: underline;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-align: right;
+}
+#signature-form{
+    padding-bottom: 15px;
+}
+#qty-text{
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
